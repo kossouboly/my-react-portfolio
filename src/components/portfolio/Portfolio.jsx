@@ -37,9 +37,9 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG1} alt="" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>CONCEPTION DE MON PORTFOLIO</h3>
           <div className="portfolio__item-cta">
-            <a href="http://github.com" className="btn">
+            <a href="https://github.com/kossouboly/my-react-portfolio" className="btn">
               Github
             </a>
             <a
