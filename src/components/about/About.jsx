@@ -44,7 +44,7 @@ const About = () => {
             Voluptatum beatae natus quia tempore hic!
           </p>
 
-          <a href="#contact" className="btn btn-primary">
+          <a href="#Contact" className="btn btn-primary">
             Let's Talk
           </a>
         </div>
